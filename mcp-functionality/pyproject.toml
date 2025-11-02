@@ -1,0 +1,15 @@
+[project]
+name = "mcp-functionality"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp-inspector>=0.1.0",
+    "mcp[cli]>=1.20.0",
+    "mss>=10.1.0",
+    "openai>=2.6.1",
+    "pillow>=12.0.0",
+    "pyscreeze>=1.0.1",
+    "requests>=2.32.5",
+]

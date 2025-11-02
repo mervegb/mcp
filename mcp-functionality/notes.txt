@@ -1,0 +1,7 @@
+my favorite food is cheeseburgers
+=== What Claude knows about you ===
+- Your favorite food is cheeseburgers
+- You're using a Mac (macOS) - based on the file paths shown
+
+Note added by Claude on Saturday, November 01, 2025
+
